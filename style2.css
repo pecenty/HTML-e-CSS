@@ -1,0 +1,37 @@
+    #charset "UTF-8";
+    /*
+        tudo que for id em html em css é # e so pode um
+        tudo que for class em html em css é . e pode varios
+    */
+    *{
+
+    }
+    body{
+        background-color: #E6C0BE;
+    }
+    h1{
+        color:#0CADAC;
+    }
+    h1#principal{
+        text-align: center;
+    }
+    h2{
+        color:#10DEDE;
+    }
+    .basico{
+        color:#EE4ADE;
+        font-weight: lighter;
+    }
+    .intermediario{
+        color:#EB02D2;
+        font-weight: normal;
+
+    }
+    .avançado{
+        color:#EB02D2;
+        font-weight: bolder;
+        font-style: italic;
+    }
+    .destaque{
+        background-color:#EBD373;
+    }
